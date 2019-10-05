@@ -4,18 +4,18 @@ This instructions for how to implement this license in your project can be found
 
 ## License
 
-Copyright 2019 (C) the [Kabuki Starship](https://kabukistarship.com); all rights reserved (R).
+Copyright 2019 © the [Your Company Name](https://your-company-name.com).
 
-This source code form is confidential and is covered under the Kabuki Strong Source-unavailable License. This source code form is closed-source legally protected work and YOU MUST PURCHASE A LICENSE to use the source code from at <https://kabukistarship.com/license>. Consult your personal license for permissions and restrictions.
+This source code form is confidential and is covered under the Kabuki Strong Source-closed License. The source code form contains intellectual property, trade secrets, copyrighted material, and other protected works, refereed to as the IP, that are the property of Your Company Name. Unauthorized possession of the IP is theft and may not purchase a license to use the IP.
 
 ## Doxygen Header
 
 ```C++
 /* Your Project Name @version 0.x
-@link    https://github.com/kabuki-starship/astartup.cookbook.git
+@link    https://github.com/kabuki-starship/Astartup™.cookbook.git
 @file    /_seams/main.cpp
 @author  Cale McCollough <https://your-github-account.github.io>
-@license Copyright 2013-9 (C) Kabuki Starship <kabukistarship.com>;
+@license Copyright 2013-9 © Your Company Name <your-company-name.com>;
 all rights reserved. This source code form is confidential and is covered under
 the Kabuki Strong Source-closed License. A copy of the license that YOU MUST
 READ can be found in the readme.md file in this folder.*/
