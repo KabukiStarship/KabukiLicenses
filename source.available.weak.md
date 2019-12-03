@@ -6,7 +6,7 @@ This instructions for how to implement this license in your project can be found
 
 Copyright 2019 © the [Kabuki Starship™](https://kabukistarship.com).
 
-This source code form is open-source and is covered under the Kabuki Weak Source-available License, the License. The intention of the License is to encourage open-source usage of the Document and protect our legal rights from mega corporations and individuals who manipulate open-source licenses using highly-skilled attorneys in order to control the Document and stifle competition, a practice referred to as engaging in Open-source Theft. A personal license for general use of the Document to all people who are engaging in Open-source Theft, but the license shall be terminated upon discovery of the Document being used to engaging in Open-source Theft. Consult your personal license for permissions and restrictions.
+This source code form is open-source and is covered under the Kabuki Weak Source-available License, the License. The intention of the License is to encourage open-source usage of the Writings and Discoveries and protect our legal rights from predatorial corporations and individuals who manipulate open-source licenses using highly-skilled attorneys in order to control the Writings and Discoveries and stifle competition, a practice referred to as in Open-source Theft. A personal license is granted for general use of the Writings and Discoveries to all people who are not engaging in Open-source Theft, but the license shall be terminated upon discovery of the Writings and Discoveries being used to engaging in Open-source Theft. Consult your personal license for permissions and restrictions.
 
 ## Doxygen Header
 
