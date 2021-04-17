@@ -12,10 +12,10 @@ This source code form is an open-source document, the Writings and Discoveries, 
 
 ```C++
 /* Your Project Name @version 0.x
-@link    https://github.com/KabukiStarship/Astartup™.cookbook.git
-@file    /_Seams/main.cpp
-@author  Cale McCollough <https://your-github-account.github.io>
-@license Copyright 2013-21 © Kabuki Starship™ <kabukistarship.com>;
+@link    https://github.com/YourGitHubRepoName/KabukiToolkit.git
+@file    /Main.cpp
+@author  Cale McCollough <https://YourGithubAccountName.github.io>
+@license Copyright 2013-21 © Kabuki Starship™ <https://kabukistarship.com>;
 all rights reserved. This source code form is confidential and is covered under
 the Kabuki Strong Source-available License. A copy of the license that YOU
 MUST READ can be found in the readme.md file in this folder.*/
