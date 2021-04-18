@@ -1,5 +1,7 @@
 # Kabuki Strong Source-closed License
 
+The Kabuki Strong Source-closed License is a Closed-source license designed to maximize your legal rights by protecting your copyright under a trade secret common law provision. This is the license generally recommended for products/businesses that do not sub-license their products.
+
 This instructions for how to implement this license in your project can be found in the <readme.md>.
 
 ## License
@@ -12,10 +14,10 @@ This source code form is confidential and is covered under the Kabuki Strong Sou
 
 ```C++
 /* Your Project Name @version 0.x
-@link    https://github.com/KabukiStarship/Astartup™.cookbook.git
-@file    /_seams/main.cpp
-@author  Cale McCollough <https://your-github-account.github.io>
-@license Copyright 2013-21 © Your Company Name <your-company-name.com>;
+@link    https://github.com/YourGitHubRepoName/YourRepoName.git
+@file    /Main.cpp
+@author  Your Name <https://YourGithubAccountName.github.io>
+@license Copyright 2021 © Your Name <https://yourwebsiteaddress.com>;
 all rights reserved. This source code form is confidential and is covered under
 the Kabuki Strong Source-closed License. A copy of the license that YOU MUST
 READ can be found in the readme.md file in this folder.*/

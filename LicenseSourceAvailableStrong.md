@@ -1,5 +1,7 @@
 # Kabuki Strong Source-available License
 
+The Kabuki Strong Source-available License is an open-source license designed to protect your copyright rights only without imposing restrictions on non-commercial users. It features a clause that allows for commercial use under a separate paid license from your website agreed upon before download, facilitating one-time donations, closed-source Software-as-a-Service, and avoiding app store fees. Use this license for general-purpose open-source projects.
+
 This instructions for how to implement this license in your project can be found in the <readme.md>.
 
 ## License
@@ -12,10 +14,10 @@ This source code form is an open-source document, the Writings and Discoveries, 
 
 ```C++
 /* Your Project Name @version 0.x
-@link    https://github.com/YourGitHubRepoName/KabukiToolkit.git
+@link    https://github.com/YourGitHubRepoName/YourRepoName.git
 @file    /Main.cpp
-@author  Cale McCollough <https://YourGithubAccountName.github.io>
-@license Copyright 2013-21 © Kabuki Starship™ <https://kabukistarship.com>;
+@author  Your Name <https://YourGithubAccountName.github.io>
+@license Copyright 2021 © Your Name <https://yourwebsiteaddress.com>;
 all rights reserved. This source code form is confidential and is covered under
 the Kabuki Strong Source-available License. A copy of the license that YOU
 MUST READ can be found in the readme.md file in this folder.*/
