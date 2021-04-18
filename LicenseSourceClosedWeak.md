@@ -2,13 +2,13 @@
 
 The Kabuki Weak Source-closed License is a Closed-source license designed to protect your copyright rights only and attempt to keep your IP confidential. Use this license if you are sub-licensing your product.
 
-This instructions for how to implement this license in your project can be found in the <readme.md>.
+This instructions for how to implement this license in your project can be found in the root [ReadMe.md](readme.md) file.
 
 ## License
 
-Copyright 2019-21 © the [Kabuki Starship™](https://kabukistarship.com).
+Copyright 2021 © [Your Name™](https://yourwebsiteaddress.com).
 
-This source code form is covered under the Kabuki Weak Closed-source License. The source code form contains intellectual property, trade secrets, copyrighted material, and other protected works, refereed to as the IP, that are the property of Your Company Name. A license to use the IP may be purchased at <https://kabukistarship.com/lincenses>. Consult your personal license for permissions and restrictions.
+This source code form is covered under the Kabuki Weak Closed-source License. The source code form contains intellectual property, trade secrets, copyrighted material, and other protected works, refereed to as the IP, that are the property of Your Company Name. A license to use the IP may be purchased at <https://github.com/YourGithubAccountName/YourGitHubRepoName>. Consult your personal license for permissions and restrictions.
 
 ## Doxygen Header
 

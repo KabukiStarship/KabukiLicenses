@@ -1,5 +1,9 @@
 # Contributing Guide
 
+For instructions on how to perform Issue-driven Development Mission Tickets, please read the [Issue-driven Development chapter of the AStartup Cookbook](https://github.com/CookingWithCale/AStartupCookbook/tree/master/Dev/IDD).
+
+## Bug Reports
+
 **1.** Ensure the bug was not already reported by by reading the [Issues](https://github.com/abc_org/xyz_project/issues).
 
 **2.** Open `/docs/BUG_REPORT_TEMPLATE.md` and copy it's contents to the clipboard.
