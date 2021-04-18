@@ -1,5 +1,7 @@
 # Kabuki Strong Source-available License
 
+The Kabuki Strong Source-available License is an open-source license designed to provide the most protect to your open-source project's rights and forces users to donate back so that you keep the Copyright and IP. Use this license if you need to prevent others from selling your open-source products and books.
+
 This instructions for how to implement this license in your project can be found in the <readme.md>.
 
 ## License
@@ -12,10 +14,10 @@ This source code form is an open-source document, the Writings and Discoveries, 
 
 ```C++
 /* Your Project Name @version 0.x
-@link    https://github.com/KabukiStarship/Astartup™.cookbook.git
-@file    /_seams/main.cpp
-@author  Cale McCollough <https://your-github-account.github.io>
-@license Copyright 2013-21 © Kabuki Starship™ <kabukistarship.com>;
+@link    https://github.com/YourGitHubRepoName/YourRepoName.git
+@file    /Main.cpp
+@author  Your Name <https://YourGithubAccountName.github.io>
+@license Copyright 2021 © Your Name <https://yourwebsiteaddress.com>;
 all rights reserved. This source code form is confidential and is covered under
 the Kabuki Weak Source-unavailable License. A copy of the license that YOU
 MUST READ can be found in the readme.md file in this folder.*/
