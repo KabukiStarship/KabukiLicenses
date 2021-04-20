@@ -16,7 +16,7 @@ The Solution I'm proposing to the Problem is...
 
 ## Instructions
 
-For instructions on how to contribute, please see the [Contributing Guide](https://github.com/KabukiStarship/KabukiLicenses/blob/master/docs/contributing.md)
+For instructions on how to contribute, please see the [Contributing Guide](https://github.com/KabukiStarship/KabukiLicenses/blob/master/docs/contributing.md).
 
 ## License
 
