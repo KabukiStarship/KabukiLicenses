@@ -8,11 +8,11 @@ This instructions for how to implement this license in your project can be found
 
 Copyright 2021 © [Your Name™](https://yourwebsiteaddress.com).
 
-This source code form is an open-source document, the Writings and Discoveries, that was written by and contains intellectual property belonging to the IP Owner. The Writings and Discoveries consist of documents, files, source code, technology design files, art, trademarks, and other content contained this file, folder and the GitHub repository, the Repo, located at <https://github.com/YourGithubAccountName/YourGitHubRepoName>. The Writings and Discoveries are published under the Kabuki Strong Source-available License, the License, which is a non-commercial open-source license and is for educational and demonstration purposes only. To use the Writings and Discoveries for commercial purposes, you must download the Writings and Discoveries from <https://yourwebsiteaddress.com> and you will be bound to the license agreed upon before downloading the Writings and Discoveries. You may use, reproduce, publicly display, and modify the Writings and Discoveries so long as you submit and donate fixes and derived intellectual property, the Donated Ideas, to the Repo as an Issue ticket to become part of the Writings and Discoveries. You may not sell the Writings and Discoveries or otherwise profit from derivative works created from the Writings and Discoveries without the expressed written permission of the copyright holder. Unless required by applicable law or agreed to in writing, the Writings and Discoveries distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+This source code form is an open-source document, the Writings and Discoveries, that was written by and contains intellectual property belonging to the IP Owner. The Writings and Discoveries consist of documents, files, source code, technology design files, art, trademarks, and other content contained this file, folder and the GitHub repository, the Repo, located at <https://github.com/YourGithubAccountName/YourGitHubRepoName>. The Writings and Discoveries are published under the Kabuki Strong Source-available License, the License, which is a non-commercial open-source license and is for educational and demonstration purposes only. To use the Writings and Discoveries for commercial purposes, you must download the Writings and Discoveries from <https://yourwebsiteaddress.com> and you will be bound to the license agreed upon before downloading the Writings and Discoveries. You may use, reproduce, publicly display, and modify the Writings and Discoveries so long as you submit and donate fixes and derived intellectual property, the Donated Ideas, to the Repo as an Issue ticket to become part of the Writings and Discoveries. You may not sell the Writings and Discoveries or otherwise profit from derivative works created from the Writings and Discoveries, refereed to as Third-party Monetization or Third-party Monetize, without the expressed written permission of the copyright holder. Unless required by applicable law or agreed to in writing, the Writings and Discoveries distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 
 ## License Short
 
-Copyright 2021 © Your Name <https://yourwebsiteaddress.com>; all rights reserved, public display prohibited, contains trade secrets and other confidential materials, further unauthorized access is prohibited unless permitted under the Kabuki Strong . 
+Copyright 2021 © Your Name <https://yourwebsiteaddress.com>; Third-party Monetization prohibited, licensed under the Kabuki Strong Source-available License that YOU MUST CONSENT TO at <https://yourwebsiteaddress.com/license>.
 
 ## Doxygen Headers
 
@@ -24,9 +24,9 @@ Copyright 2021 © Your Name <https://yourwebsiteaddress.com>; all rights reserve
 @file    /Main.cpp
 @author  Your Name <https://YourGithubAccountName.github.io>
 @license Copyright 2021 © Your Name <https://yourwebsiteaddress.com>.
-This source code form is confidential and is covered under the Kabuki Strong 
-Source-available License. A copy of the license that YOU MUST READ can be 
-found in the readme.md file in this folder.*/
+Third-party Monetization prohibited, licensed under the Kabuki Strong 
+Source-available License that YOU MUST CONSENT TO at 
+<https://yourwebsiteaddress.com/license>. */
 ```
 
 ### Python
@@ -39,7 +39,7 @@ found in the readme.md file in this folder.*/
 # @file    /Filename.py
 # @author  Your Name <https://YourGithubAccountName.github.io>
 # @license Copyright 2021 © Your Name <https://yourwebsiteaddress.com>.
-# This source code form is confidential and is covered under the Kabuki Strong 
-# Source-available License. A copy of the license that YOU MUST READ can be 
-# found in the readme.md file in this folder.
+# Third-party Monetization prohibited, licensed under the Kabuki Strong 
+# Source-available License that YOU MUST CONSENT TO at 
+# <https://yourwebsiteaddress.com/license>.
 ```
