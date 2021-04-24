@@ -1,3 +1,3 @@
 # Project Roadmap
 
-Please see the main project repository [readme.md](../readme.md#Project-Roadmap) for the project roadmap.
+Currently these licenses are used on all of my cookbooks that you can find at <https://cookingwithcale.org/cookbooks>.
