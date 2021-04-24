@@ -12,7 +12,7 @@ This source code form is an open-source document, the Writings and Discoveries, 
 
 ## License Short
 
-Copyright 2021 © Your Name <https://yourwebsiteaddress.com>. This source code form is confidential and is covered under the Kabuki Weak Source-available License that YOU MUST CONSENT TO at <https://yourwebsiteaddress.com/license>.
+Copyright 2021 © Your Name <https://yourwebsiteaddress.com>; Open-source theft prohibited, licensed under the Kabuki Weak Source-available License that YOU MUST CONSENT TO at <https://yourwebsiteaddress.com/license>.
 
 ## Doxygen Headers
 
@@ -23,10 +23,9 @@ Copyright 2021 © Your Name <https://yourwebsiteaddress.com>. This source code f
 @link    https://github.com/YourGitHubRepoName/YourRepoName.git
 @file    /Filename.cpp
 @author  Your Name <https://YourGithubAccountName.github.io>
-@license Copyright 2021 © Your Name <https://yourwebsiteaddress.com>.
-This source code form is confidential and is covered under the Kabuki Weak 
-Source-available License that YOU MUST CONSENT TO at 
-<https://yourwebsiteaddress.com/license>.*/
+@license Copyright 2021 © Your Name <https://yourwebsiteaddress.com>; 
+Open-source theft prohibited, licensed under the Kabuki Weak Source-available 
+License that YOU MUST CONSENT TO at <https://yourwebsiteaddress.com/license>.*/
 ```
 
 ### Python
@@ -38,8 +37,7 @@ Source-available License that YOU MUST CONSENT TO at
 # @link    https://github.com/YourGitHubRepoName/YourRepoName.git
 # @file    /Filename.py
 # @author  Your Name <https://YourGithubAccountName.github.io>
-# @license Copyright 2021 © Your Name <https://yourwebsiteaddress.com>.
-# This source code form is confidential and is covered under the Kabuki Weak 
-# Source-available License that YOU MUST CONSENT TO at 
-# <https://yourwebsiteaddress.com/license>.
+# @license Copyright 2021 © Your Name <https://yourwebsiteaddress.com>;
+# Open-source theft prohibited, licensed under the Kabuki Weak Source-available 
+# License that YOU MUST CONSENT TO at <https://yourwebsiteaddress.com/license>.
 ```

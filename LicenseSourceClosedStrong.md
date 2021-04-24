@@ -14,6 +14,8 @@ This source code form is confidential and is covered under the Kabuki Strong Sou
 
 Copyright 2021 © Your Name <https://yourwebsiteaddress.com>; all rights reserved, public display prohibited, contains trade secrets and other confidential materials, further access prohibited unless permitted by the Kabuki Strong Source-closed License that YOU MUST CONSENT TO at <https://yourwebsiteaddress.com/license>.
 
+This source code form is confidential and is covered under the Kabuki Weak Source-available License that YOU MUST CONSENT TO at <https://yourwebsiteaddress.com/license>.
+
 ## Doxygen Headers
 
 ### C++ 
