@@ -8,7 +8,11 @@ This instructions for how to implement this license in your project can be found
 
 Copyright 2021 © [Your Name™](https://yourwebsiteaddress.com).
 
-This source code form is covered under the Kabuki Weak Closed-source License. The source code form contains intellectual property, trade secrets, copyrighted material, and other protected works, refereed to as the IP, that are the property of Your Company Name. A license to use the IP may be purchased at <https://github.com/YourGithubAccountName/YourGitHubRepoName>. Consult your personal license for permissions and restrictions.
+This source code form is covered under the Kabuki Weak Source-closed License. The source code form contains intellectual property, trade secrets, copyrighted material, and other protected works, refereed to as the Writings and Discoveries, that are the property of Your Company Name. A license to use the IP may be purchased at <https://yourwebsiteaddress.com/license>. Consult your personal license for permissions and restrictions.
+
+## Abbreviated License
+
+Copyright 2021 © [Your Name™](https://yourwebsiteaddress.com/license); licensed under the the Kabuki Weak Source-closed License that YOU MUST CONSENT TO, further use and access and public display of the Writings and Discoveries prohibited without purchase of Personal License, available at <https://yourwebsiteaddress.com/license>.
 
 ## Doxygen Headers
 
@@ -19,10 +23,11 @@ This source code form is covered under the Kabuki Weak Closed-source License. Th
 @link    https://github.com/YourGitHubRepoName/YourRepoName.git
 @file    /Main.cpp
 @author  Your Name <https://YourGithubAccountName.github.io>
-@license Copyright 2021 © Your Name <https://yourwebsiteaddress.com>.
-This source code form is confidential and is covered under the Kabuki Weak 
-Source-closed License. A copy of the license that YOU MUST READ can be 
-found in the readme.md file in this folder.*/
+@license Copyright 2021 © Your Name <https://yourwebsiteaddress.com>; 
+licensed under the the Kabuki Weak Source-closed License that YOU MUST CONSENT 
+TO, further use and access and public display of the Writings and Discoveries 
+prohibited without purchase of Personal License, available at 
+<https://yourwebsiteaddress.com/license>. */
 ```
 
 ### Python
@@ -34,8 +39,8 @@ found in the readme.md file in this folder.*/
 # @link    https://github.com/YourGitHubRepoName/YourRepoName.git
 # @file    /Filename.py
 # @author  Your Name <https://YourGithubAccountName.github.io>
-# @license Copyright 2021 © Your Name <https://yourwebsiteaddress.com>.
-# This source code form is confidential and is covered under the Kabuki Weak 
-# Source-closed License. A copy of the license that YOU MUST READ can be 
-# found in the readme.md file in this folder.
+# licensed under the the Kabuki Weak Source-closed License that YOU MUST CONSENT 
+# TO, further use and access and public display of the Writings and Discoveries 
+# prohibited without purchase of Personal License, available at 
+# <https://yourwebsiteaddress.com/license>.
 ```
