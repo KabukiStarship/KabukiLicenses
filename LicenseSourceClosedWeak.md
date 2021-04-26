@@ -6,13 +6,13 @@ This instructions for how to implement this license in your project can be found
 
 ## License
 
-Copyright 2021 © [Your Name™](https://yourwebsiteaddress.com).
+Copyright 2021 © [Your Name™](https://yourwebsiteaddress.com); all rights reserved, use and public display prohibited without Personal License.
 
-This source code form is covered under the Kabuki Weak Source-closed License. The source code form contains intellectual property, trade secrets, copyrighted material, and other protected works, refereed to as the Writings and Discoveries, that are the property of Your Company Name. A license to use the IP may be purchased at <https://yourwebsiteaddress.com/license>. Consult your personal license for permissions and restrictions.
+The source code form contains intellectual property, trade secrets, copyrighted material, and other protected works, refereed to as the Writings and Discoveries, that are the property of Your Company Name and covered under the Kabuki Weak Source-closed License. A license to use the IP may be purchased at <https://yourwebsiteaddress.com/License>. Consult your personal license for permissions and restrictions.
 
 ## Abbreviated License
 
-Copyright 2021 © [Your Name™](https://yourwebsiteaddress.com/license); licensed under the the Kabuki Weak Source-closed License that YOU MUST CONSENT TO, further use and access and public display of the Writings and Discoveries prohibited without purchase of Personal License, available at <https://yourwebsiteaddress.com/license>.
+Copyright 2021 © [Your Name™](https://yourwebsiteaddress.com/License); all rights reserved, use and public display prohibited without Personal License, licensed under the the Kabuki Weak Source-closed License that YOU MUST CONSENT TO at <https://yourwebsiteaddress.com/License>.
 
 ## Doxygen Headers
 
@@ -23,11 +23,10 @@ Copyright 2021 © [Your Name™](https://yourwebsiteaddress.com/license); licens
 @link    https://github.com/YourGitHubRepoName/YourRepoName.git
 @file    /Main.cpp
 @author  Your Name <https://YourGithubAccountName.github.io>
-@license Copyright 2021 © Your Name <https://yourwebsiteaddress.com>; 
+@license Copyright 2021 © Your Name <https://yourwebsiteaddress.com>; all 
+rights reserved, use and public display prohibited without Personal License, 
 licensed under the the Kabuki Weak Source-closed License that YOU MUST CONSENT 
-TO, further use and access and public display of the Writings and Discoveries 
-prohibited without purchase of Personal License, available at 
-<https://yourwebsiteaddress.com/license>. */
+TO at <https://yourwebsiteaddress.com/License>. */
 ```
 
 ### Python
@@ -39,8 +38,8 @@ prohibited without purchase of Personal License, available at
 # @link    https://github.com/YourGitHubRepoName/YourRepoName.git
 # @file    /Filename.py
 # @author  Your Name <https://YourGithubAccountName.github.io>
+# @license Copyright 2021 © Your Name <https://yourwebsiteaddress.com>; all 
+# rights reserved, use and public display prohibited without Personal License, 
 # licensed under the the Kabuki Weak Source-closed License that YOU MUST CONSENT 
-# TO, further use and access and public display of the Writings and Discoveries 
-# prohibited without purchase of Personal License, available at 
-# <https://yourwebsiteaddress.com/license>.
+# TO at <https://yourwebsiteaddress.com/License>. 
 ```

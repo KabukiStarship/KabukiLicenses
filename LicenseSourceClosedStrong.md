@@ -6,15 +6,13 @@ This instructions for how to implement this license in your project can be found
 
 ## License
 
-Copyright 2021 © [Your Name™](https://yourwebsiteaddress.com).
+Copyright 2021 © [Your Name™](https://yourwebsiteaddress.com); all rights reserved, public display prohibited, unauthorized use prohibited, contains trade secrets and other confidential materials.
 
-This source code form is confidential and is covered under the Kabuki Strong Source-closed License. The source code form contains intellectual property, trade secrets, copyrighted material, and other protected works, refereed to as the Writings and Discoveries, that are the property of Your Company Name. Public display of the Writings and Discoveries is prohibited. Unauthorized possession of the IP is theft and may not purchase a license to use the IP. By using the Writings and Discoveries to you hereby consent to the terms and conditions of this license, and you are prohibited from any further access to the Writings and Discoveries.
+This source code form is confidential and is covered under the Kabuki Strong Source-closed License. The source code form contains intellectual property, trade secrets, copyrighted material, and other protected works, refereed to as the Writings and Discoveries, that are the property of Your Company Name. Public display of the Writings and Discoveries is prohibited. Unauthorized possession of the IP is theft and may not purchase a license to use the Writings and Discoveries. By using the Writings and Discoveries to you hereby consent to the terms and conditions of this license, and you are prohibited from any further use to the Writings and Discoveries.
 
 ## Abbreviated License
 
-Copyright 2021 © Your Name <https://yourwebsiteaddress.com>; all rights reserved, public display prohibited, contains trade secrets and other confidential materials, further access prohibited unless permitted by the Kabuki Strong Source-closed License that YOU MUST CONSENT TO at <https://yourwebsiteaddress.com/license>.
-
-This source code form is confidential and is covered under the Kabuki Weak Source-available License that YOU MUST CONSENT TO at <https://yourwebsiteaddress.com/license>.
+Copyright 2021 © Your Name <https://yourwebsiteaddress.com>; all rights reserved, public display prohibited, unauthorized use prohibited, contains trade secrets and other confidential materials, licensed under the Kabuki Strong Source-closed License that YOU MUST CONSENT TO at <https://yourwebsiteaddress.com/License>.
 
 ## Doxygen Headers
 
@@ -25,11 +23,11 @@ This source code form is confidential and is covered under the Kabuki Weak Sourc
 @link    https://github.com/YourGitHubRepoName/YourRepoName.git
 @file    /Main.cpp
 @author  Your Name <https://YourGithubAccountName.github.io>
-@license Copyright 2021 © Your Name <https://yourwebsiteaddress.com>; all  
-rights reserved, public display prohibited, contains trade secrets and other 
-confidential materials, further access prohibited unless permitted by the 
+@license Copyright 2021 © Your Name <https://yourwebsiteaddress.com>; all 
+rights reserved, public display prohibited, unauthorized use prohibited, 
+contains trade secrets and other confidential materials, licensed under the 
 Kabuki Strong Source-closed License that YOU MUST CONSENT TO at 
-<https://yourwebsiteaddress.com/license>. */
+<https://yourwebsiteaddress.com/License>. */
 ```
 
 ### Python
@@ -41,9 +39,9 @@ Kabuki Strong Source-closed License that YOU MUST CONSENT TO at
 # @link    https://github.com/YourGitHubRepoName/YourRepoName.git
 # @file    /Filename.py
 # @author  Your Name <https://YourGithubAccountName.github.io>
-# @license Copyright 2021 © Your Name <https://yourwebsiteaddress.com>; all  
-# rights reserved, public display prohibited, contains trade secrets and other 
-# confidential materials, further access prohibited unless permitted by the 
+# @license Copyright 2021 © Your Name <https://yourwebsiteaddress.com>; all 
+# rights reserved, public display prohibited, unauthorized use prohibited, 
+# contains trade secrets and other confidential materials, licensed under the 
 # Kabuki Strong Source-closed License that YOU MUST CONSENT TO at 
-# <https://yourwebsiteaddress.com/license>.
+# <https://yourwebsiteaddress.com/License>.
 ```
