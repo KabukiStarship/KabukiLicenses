@@ -6,13 +6,11 @@ This instructions for how to implement this license in your project can be found
 
 ## License
 
-Copyright 2021 © [Your Name™](https://yourwebsiteaddress.com); all rights reserved, public display prohibited, unauthorized use prohibited, contains trade secrets and other confidential materials.
+Copyright ©2022 Your Name <https://yourwebsiteaddress.com>; all rights reserved, public display prohibited, unauthorized use prohibited, contains trade secrets and other confidential materials, licensed under the Kabuki Strong Source-closed License that YOU MUST CONSENT TO at <https://yourwebsiteaddress.com/License>.
+
+### Legal Agreement
 
 This source code form is confidential and is covered under the Kabuki Strong Source-closed License. The source code form contains intellectual property, trade secrets, copyrighted material, and other protected works, refereed to as the Writings and Discoveries, that are the property of Your Company Name. Public display of the Writings and Discoveries is prohibited. Unauthorized possession of the IP is theft and may not purchase a license to use the Writings and Discoveries. By using the Writings and Discoveries to you hereby consent to the terms and conditions of this license, and you are prohibited from any further use to the Writings and Discoveries.
-
-## Abbreviated License
-
-Copyright 2021 © Your Name <https://yourwebsiteaddress.com>; all rights reserved, public display prohibited, unauthorized use prohibited, contains trade secrets and other confidential materials, licensed under the Kabuki Strong Source-closed License that YOU MUST CONSENT TO at <https://yourwebsiteaddress.com/License>.
 
 ## Doxygen Headers
 
