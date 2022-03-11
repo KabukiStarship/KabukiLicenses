@@ -6,13 +6,9 @@ This instructions for how to implement this license in your project can be found
 
 ## License
 
-Copyright 2021 © [Your Name™](https://yourwebsiteaddress.com); all rights reserved, use and public display prohibited without Personal License.
+Copyright ©2022 [Your Name™](https://yourwebsiteaddress.com/License); all rights reserved, use and public display prohibited without Personal License, licensed under the the Kabuki Weak Source-closed License that YOU MUST CONSENT TO at <https://yourwebsiteaddress.com/License>.
 
 The source code form contains intellectual property, trade secrets, copyrighted material, and other protected works, refereed to as the Writings and Discoveries, that are the property of Your Company Name and covered under the Kabuki Weak Source-closed License. A license to use the IP may be purchased at <https://yourwebsiteaddress.com/License>. Consult your personal license for permissions and restrictions.
-
-## Abbreviated License
-
-Copyright 2021 © [Your Name™](https://yourwebsiteaddress.com/License); all rights reserved, use and public display prohibited without Personal License, licensed under the the Kabuki Weak Source-closed License that YOU MUST CONSENT TO at <https://yourwebsiteaddress.com/License>.
 
 ## Doxygen Headers
 
