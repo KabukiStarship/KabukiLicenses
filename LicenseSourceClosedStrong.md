@@ -6,7 +6,7 @@ This instructions for how to implement this license in your project can be found
 
 ## License
 
-Copyright ©2022 Your Name <https://yourwebsiteaddress.com>; all rights reserved, public display prohibited, unauthorized use prohibited, contains trade secrets and other confidential materials, licensed under the Kabuki Strong Source-closed License that YOU MUST CONSENT TO at <https://yourwebsiteaddress.com/License>.
+Copyright ©2022 [Your Name™](https://yourwebsiteaddress.com); all rights reserved, public display prohibited, unauthorized use prohibited, contains trade secrets and other confidential materials, licensed under the Kabuki Strong Source-closed License that YOU MUST CONSENT TO at <https://yourwebsiteaddress.com/License>.
 
 ### Legal Agreement
 
