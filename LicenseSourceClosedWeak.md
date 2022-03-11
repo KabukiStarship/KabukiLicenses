@@ -19,7 +19,7 @@ The source code form contains intellectual property, trade secrets, copyrighted 
 @link    https://github.com/YourGitHubRepoName/YourRepoName.git
 @file    /Main.cpp
 @author  Your Name <https://YourGithubAccountName.github.io>
-@license Copyright 2021 © Your Name <https://yourwebsiteaddress.com>; all 
+@license Copyright ©2022 Your Name <https://yourwebsiteaddress.com>; all 
 rights reserved, use and public display prohibited without Personal License, 
 licensed under the the Kabuki Weak Source-closed License that YOU MUST CONSENT 
 TO at <https://yourwebsiteaddress.com/License>. */
@@ -34,7 +34,7 @@ TO at <https://yourwebsiteaddress.com/License>. */
 # @link    https://github.com/YourGitHubRepoName/YourRepoName.git
 # @file    /Filename.py
 # @author  Your Name <https://YourGithubAccountName.github.io>
-# @license Copyright 2021 © Your Name <https://yourwebsiteaddress.com>; all 
+# @license Copyright ©2022 Your Name <https://yourwebsiteaddress.com>; all 
 # rights reserved, use and public display prohibited without Personal License, 
 # licensed under the the Kabuki Weak Source-closed License that YOU MUST CONSENT 
 # TO at <https://yourwebsiteaddress.com/License>. 

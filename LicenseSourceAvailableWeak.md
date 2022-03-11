@@ -22,7 +22,7 @@ This source code form is an open-source document, the Writings and Discoveries, 
 @file    /Filename.cpp
 @author  Your Name <https://YourGithubAccountName.github.io>
 --------------------------------------------------------------------------------
-@license Copyright 2021 © Your Name <https://yourwebsiteaddress.com>; most 
+@license Copyright ©2022 Your Name <https://yourwebsiteaddress.com>; most 
 rights reserved, Open-source theft prohibited, closed-source commercial use 
 allowed, licensed under the Kabuki Weak Source-available License that YOU MUST 
 CONSENT TO at <https://yourwebsiteaddress.com/License>.*/
@@ -37,7 +37,7 @@ CONSENT TO at <https://yourwebsiteaddress.com/License>.*/
 # @link    https://github.com/YourGitHubRepoName/YourRepoName.git
 # @file    /Filename.py
 # @author  Your Name <https://YourGithubAccountName.github.io>
-# @license Copyright 2021 © Your Name <https://yourwebsiteaddress.com>; most 
+# @license Copyright ©2022 Your Name <https://yourwebsiteaddress.com>; most 
 # rights reserved, Open-source theft prohibited, closed-source commercial use 
 # allowed, licensed under the Kabuki Weak Source-available License that YOU MUST 
 # CONSENT TO at <https://yourwebsiteaddress.com/License>.
