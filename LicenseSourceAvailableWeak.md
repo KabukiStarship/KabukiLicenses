@@ -6,7 +6,7 @@ This instructions for how to implement this license in your project can be found
 
 ## License
 
-Copyright ©2022 Your Name <https://yourwebsiteaddress.com>; most rights reserved, Open-source theft prohibited, closed-source commercial use allowed, licensed under the Kabuki Weak Source-available License that YOU MUST CONSENT TO at <https://yourwebsiteaddress.com/License>.
+Copyright ©2022 [Your Name™](https://yourwebsiteaddress.com); most rights reserved, Open-source theft prohibited, closed-source commercial use allowed, licensed under the Kabuki Weak Source-available License that YOU MUST CONSENT TO at <https://yourwebsiteaddress.com/License>.
 
 ### Legal Agreement
 
